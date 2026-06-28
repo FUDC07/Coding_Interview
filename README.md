@@ -27,7 +27,7 @@
 &#x09;**```bash**
 
 &#x09;**python A.py
-4. Provide the input as specified in the prompt (e.g., number of test cases followed by x and n pairs).**
+**4. Provide the input as specified in the prompt (e.g., number of test cases followed by x and n pairs).**
 
 
 
