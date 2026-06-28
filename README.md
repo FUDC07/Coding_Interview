@@ -26,7 +26,7 @@
 
 &#x09;**```bash**
 
-&#x09;**python A.py
+&#x09;**python A.py**
 **4. Provide the input as specified in the prompt (e.g., number of test cases followed by x and n pairs).**
 
 
@@ -37,13 +37,13 @@
 
 &#x20;   **The input is read from standard input (stdin) as plain text.**
 
-&#x20;   **The output is printed to standard output (stdout), with each result on a new line.
+&#x20;   **The output is printed to standard output (stdout), with each result on a new line.**
 
-#####  Task B: CargoCraft Fleet  #####**
+**#####  Task B: CargoCraft Fleet  #####**
 
 **### How to Run**
 
-1. **Ensure you have Python 3.x installed on your system.**
+**1. Ensure you have Python 3.x installed on your system.**
 
 **2. Open a terminal and navigate to the TaskB folder.**
 
@@ -73,9 +73,9 @@
 
 
 
-**Navigate to the TaskC folder and open the Task\_C\_answers.md file in any Markdown viewer or text editor to read the written answers regarding the Xero API scenarios.
+**Navigate to the TaskC folder and open the Task\_C\_answers.md file in any Markdown viewer or text editor to read the written answers regarding the Xero API scenarios.**
 
-##### Task D Frontend Task: E-commerce Product Detail Page #####**
+**##### Task D Frontend Task: E-commerce Product Detail Page #####**
 
 **## How to Run**
 
